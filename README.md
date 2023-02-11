@@ -33,16 +33,11 @@
 </span>
 
 ### 🚀 Some of my projects
-<span align="left">
-    <a href="https://github.com/luca-bruno/ProspectusApp/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=ProspectusApp&show_owner=true&title_color=DC2326&text_color=DC2326&icon_color=DC2326&bg_color=c9cacc&hide_border=true" /></a>
+<a href="https://github.com/luca-bruno/ProspectusApp/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=ProspectusApp&show_owner=true&title_color=DC2326&text_color=DC2326&icon_color=DC2326&bg_color=c9cacc&hide_border=true" /></a>
     <a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true" /></a>
-    <p align="right">
-    <a href="https://github.com/luca-bruno/"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruno&title_color=61dafb&hide=objective-c,shell,smarty,shaderlab,hack,hlsl&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"></a>
-    </p>
-</span>
+   <a href="https://github.com/luca-bruno/"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruno&title_color=61dafb&hide=objective-c,shell,smarty,shaderlab,hack,hlsl&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"></a> 
 
 <br />
-
 
 <!--
 **luca-bruno/luca-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
