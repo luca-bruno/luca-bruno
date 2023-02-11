@@ -33,7 +33,7 @@
   <a href="#"><img title="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
 </span>
 
-### Some of my projects
+### 🚀 Some of my projects
   <a href="https://github.com/luca-bruno/ProspectusApp/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=ProspectusApp&show_owner=true&title_color=DC2326&text_color=DC2326&icon_color=DC2326&bg_color=c9cacc&hide_border=true" /></a>
   <a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true" /></a>
   <br />
