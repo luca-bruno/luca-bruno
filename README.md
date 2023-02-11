@@ -4,10 +4,10 @@
 </p>
 
 ### 📧 Get in touch
-  <a href="mailto:contact@brunoluca.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bruno-luca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.behance.net/bronni"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
-  <a href="https://www.brunoluca.com"><img src="https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDYuNjIgMTQyLjA2Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZvbnQtc2l6ZToxNDBweDt9LmNscy0xLC5jbHMtMntmaWxsOiMwM2FjOGY7Zm9udC1mYW1pbHk6SW5jb25zb2xhdGEtU2VtaUJvbGQsIEluY29uc29sYXRhO2ZvbnQtd2VpZ2h0OjYwMDt9LmNscy0ye2ZvbnQtc2l6ZTo5MC41OXB4O308L3N0eWxlPjwvZGVmcz48dGl0bGU+THVjYSBCcnVubyBicmFuZCBsb2dvPC90aXRsZT48dGV4dCBjbGFzcz0iY2xzLTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ5LjA3IDExNC42NykiPn08L3RleHQ+PHRleHQgY2xhc3M9ImNscy0yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0Mi41NSA1My40MykiPi48L3RleHQ+PC9zdmc+"></a>
+<a href="mailto:contact@brunoluca.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/bruno-luca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/bronni"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://www.brunoluca.com"><img src="https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDYuNjIgMTQyLjA2Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZvbnQtc2l6ZToxNDBweDt9LmNscy0xLC5jbHMtMntmaWxsOiMwM2FjOGY7Zm9udC1mYW1pbHk6SW5jb25zb2xhdGEtU2VtaUJvbGQsIEluY29uc29sYXRhO2ZvbnQtd2VpZ2h0OjYwMDt9LmNscy0ye2ZvbnQtc2l6ZTo5MC41OXB4O308L3N0eWxlPjwvZGVmcz48dGl0bGU+THVjYSBCcnVubyBicmFuZCBsb2dvPC90aXRsZT48dGV4dCBjbGFzcz0iY2xzLTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ5LjA3IDExNC42NykiPn08L3RleHQ+PHRleHQgY2xhc3M9ImNscy0yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0Mi41NSA1My40MykiPi48L3RleHQ+PC9zdmc+"></a>
 
 ### 👨‍💻 My tech stack
 #### 🔭 I’m currently working with...
@@ -34,19 +34,12 @@
 </span>
 
 ### 🚀 Some of my projects
-  <a href="https://github.com/luca-bruno/ProspectusApp/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=ProspectusApp&show_owner=true&title_color=DC2326&text_color=DC2326&icon_color=DC2326&bg_color=c9cacc&hide_border=true" /></a>
-  <a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true" /></a>
-  <br />
-
-
-<p align="center">
-  <a href="https://github.com/luca-bruno/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruno&title_color=61dafb&hide=objective-c,shell,smarty,shaderlab,hack,hlsl&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"></a>
-</p>
-
-<hr>
+<a href="https://github.com/luca-bruno/ProspectusApp/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=ProspectusApp&show_owner=true&title_color=DC2326&text_color=DC2326&icon_color=DC2326&bg_color=c9cacc&hide_border=true" /></a>
+<a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true" /></a>
+<br />
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=luca-bruno/luca-bruno" alt="luca-bruno">    
+  <a href="https://github.com/luca-bruno/"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruno&title_color=61dafb&hide=objective-c,shell,smarty,shaderlab,hack,hlsl&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"></a>
 </p>
 
 <!--
