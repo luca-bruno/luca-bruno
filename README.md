@@ -1,6 +1,6 @@
 ## Hello there! 👋
 <p>
-  I'm Luca Bruno, an ambitious full-stack developer from Malta 🇲🇹 with one year of experience in the field. Full-stack dev @ Wyzer.
+  I'm Luca, an ambitious full-stack developer from Malta 🇲🇹 with one year of experience in the field. Full-stack dev @ Wyzer.
 </p>
 
 ### 📧 Get in touch
