@@ -26,6 +26,8 @@
 <span>
   <a href="#"><img title="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
   <a href="#"><img title="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
+  <a href="#"><img title="Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"></a>
+  <a href="#"><img title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></a>
   <a href="#"><img title="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"></a>
   <a href="#"><img title="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></a>
   <a href="#"><img title="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
