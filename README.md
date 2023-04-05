@@ -30,6 +30,7 @@
   <a href="#"><img title="LESS" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"></a>
   <a href="#"><img title="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
   <a href="#"><img title="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"></a>
+  <a href="#"><img title="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></a>
 </span>
 
 #### 🔮 I’m looking forward to learning...
@@ -41,6 +42,7 @@
   <a href="#"><img title="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
   <a href="#"><img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
   <a href="#"><img title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></a>
+  <a href="#"><img title="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
 </span>
 
 
