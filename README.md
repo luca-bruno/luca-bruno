@@ -13,9 +13,11 @@
 #### 🔭 I’m currently working with...
 <span>
   <a href="#"><img title="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img title="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
   <a href="#"><img title="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="#"><img title="Redux Toolkit" src="https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
+  <a href="#"><img title="RTK Query" src="https://img.shields.io/badge/rtk%20query-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
   <a href="#"><img title="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"></a>
+  <a href="#"><img title="Phoenix" src="https://img.shields.io/badge/phoenix-F0531E.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAKCAQAAADBEsxyAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+cHCQ4hHJq9dqYAAAO/elRYdFJhdyBwcm9maWxlIHR5cGUgeG1wAABIiaVWS3bbMAzc4xQ9AgWQoHgc2ZJ2fa/LHr8zoGzLlpI4afIiOyQ+g8FP8vf3H/mFn6GkUexqax1r8sHNL15q1uTqxas3X2xWXdbL5bKq4rx55kmpVvJsKc81ZYPs6E3yWKcKxWJ1ykvJjk8YNIOSqq22aLJrHW2qo0PRZzrzQRP/96sv1Xgn9AA02VfisKlf3MUDycMMzi7UyHcNTWXMc0miBLfWOLKii7nOwDNYNp5UazgbDEc4afjvilO1hLNRV3zyOZiJziE2QSzhqQYEL7+6hadAAcmiOWd/CU0lLhneWDN+YQzhrDV+dKmQ0iUQ1/DcAhWRKJ50O3cHQFStIj9kpI4ICx54/4wCEJAqJEK9BVMNDEHidu+DgLC1glii6sTuc0GCj3jD2fJIEb6b4OuMUEbgSQQPatMtVw+TULETAhIgqF8ZvPToKYhngWJh6hkqvHbDw9Ew6mlEJECEgPktyXvAN9wH9UcMcs5LntEC33ExyjM3MDifBGI151K9p+TcuJxZfzbODq1IOmTWolEGa5CMdqX5zqiwZrp/+sislAJD5EELnax+PXTXkaskGb1x756GhhhLDBCqobhN2weOSs79k25MhcWONsB0gQyfreSt+9i4kxWEeAmpCc/0ZHZ2Fk5zr5hHT3Y/MWthqlg+NythN2aPd5PDz0zL3nY0wuQe3T7TXKS78TtGb4mSXNAJxPFCuHQKmRuqb1F3NHamEPKNKSrs/RVuGxsrWgSVoqgxqEEEyAGck8c5LWGN3XbnImoepliIQcgS9USyw1QIoShbbAoEC08xYF2tYA0gOKu4wcQCN8k4z2c4K765A0e4dhJtAw4TlLGaDghYjFbvkwHI8/PakJg1EOpIzhgxrgLFX993GK5EQRNE4qy2pjMmJDD0a8NlQTSVy5J7zegvH9Axp60vUEheO1o5wr3zlTe+4ID1A1TgCIUCbugu6oqDnItrQ9S4DWJDYM9A2MgcigBYQe9tEexRYUlH1oCuNt7Lbl8hjXV43h6oEDTybh5NDPu2RYLurY2FzbDxsBc/1MkHZXIPWz6L+52wbwCkI6gVyS4d7KeN+uFokX1AHKKYLRlmB0aeo1WZ0a9nZLyNvDEj16+SIK9ZgIchBvo3EyD/06j7PpWXRt0z9m4CYlLK6RT+QQLkfEu9uaSeyKYy6aOf/pa0PrKk61kDxTZ+6TvZN95e8fwd7WA+3ie3pqX917fornDyKl8YXiRd+1u4/AN0kb1rMDk92gAAANhJREFUGNNVz0ErwwEcxvHPf5v1r5WG0rKUnJSUE8l1eQNyJqV29wb2OngFLg5WXNxEOOzIYWlp5YAtk9Wa8nNgyve5Pd/n8ojtuI5W9OMkliITfvJHlOMwhhERcRm7UY3Z0SSQBBV1Kbh1peNcKGloJ3KJ6BpI0XGjrKhszJOCY4Mcut7lXZhw4NOilrIPTcOQpdY3r2TLnaoHLyqmrZjR85al9qVhzqS61L5Vj8aljmxYSCBYt6eg6cyrZ0VtQ6mpkc5YtqnoXs+pjv/8Pk0iE2uxE/lR/w38p10qt8J72QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNy0wOVQxNDozMzoyOCswMDowMPwIUd8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDctMDlUMTQ6MzM6MjgrMDA6MDCNVeljAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA3LTA5VDE0OjMzOjI4KzAwOjAw2kDIvAAAAABJRU5ErkJggg=="></a>
   <a href="#"><img title="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a href="#"><img title="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img title="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></a>
@@ -31,7 +33,6 @@
   <a href="#"><img title="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
   <a href="#"><img title="LESS" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"></a>
   <a href="#"><img title="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"></a>
-  <a href="#"><img title="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></a>
 </span>
 
 #### 🔮 I’m looking forward to learning...
@@ -43,6 +44,7 @@
   <a href="#"><img title="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
   <a href="#"><img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
   <a href="#"><img title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></a>
+  <a href="#"><img title="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></a>
   <a href="#"><img title="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
 </span>
 
