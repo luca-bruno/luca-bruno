@@ -39,14 +39,17 @@
 #### 🔮 I’m looking forward to learning...
 <span>
   <a href="#"><img title="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+  <a href="#"><img title="Zustand" src="https://img.shields.io/badge/zustand-4F2938.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAIBUExURQAAACIgHC8rJU5KQj41LgkGBFdRSEQ4LwgEAklCOyolIAICAVBIQSoqJQ4RECUiHiIfGw0DAgMBASclIComIQUDAg8NCgYFBAAAAD05M0I9NSonIk1JQkpGPzQxLBsZFjczLTs2MDIuKCklIWpLQDAqJUZDO2JORF9HPTw3MUlDPElCO0I8Njs1L2pLP4daSjkvKDUwK6VrWD00LiUhHDAsJzEtKGJRRmpSRRoXEzs2ME1BOaNxYIdbTicjHkA6NHdSRX1SRisnIkE7NnhZSiwpJAAAAColIUE7NXRUR3pWSCwpJCIeGj03MjIvKiUiHQMBADAsJykmIRUSDh0aFy4rJisnIhsXExcUESYjHjAsJjQwKjUxKzMvKS8rJiYiHhkVEgsKCBcUERwZFR4bFhsYFBUTDwAAAHdUSI5hUkk/N0U/OUdAOkY/OUlDPEQ+OGhLP2JJPkU/OEZAOkpDPF9WTWxgVWRYTkE6NEM9NkM9Nzo1MEE7NV5US3RhVIpaQXReUGZZUD85M0I8NWpbUGRSRVFGPVtPRlBEO21VSEM7NFxQSDoxKy8mIS8qJUY/OEI6NE5GPmZNQHdCL25gVWJVSzgzLUY+OEU+Nz45M0s+NmBDN1JIQDs1L0A7NUU+OD45NDs3Mjs2MTg1Lzw3MUI9NkM+OEM+N0E8Njk1L////0yAzjAAAABodFJOUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFGhR8QeWUOHDArSN9sWPv1v9ru6+r+/mly/fdMcbk0ExnI/OWEU/bgTnn+/rEGcf3+/po96/paCKK4EibFyS4gkOH3+/jdiyEFKlNiVicD1wVpXQAAAAFiS0dEqr4GV74AAAAHdElNRQfnBwUXAgqJ4ZPRAAAA1UlEQVQI12NggABGCUkpaSYGBmYZWTl5BUUlZZUMVRZWBjY1dQ1NLW0dXT19A3YOBk7DTKOs7JzcvHxjEy5uBh7TgsKi4pLSsvIKM3MLBkuryqrqmtq6+oZGaxtbBjv7/KKm5vKW1rb2DgdHBifnqk6Xru6e3r72flc3BnePKk+vCRMnTZ4ydZo3A4OPb/70GfkzZ82eM9fPn5chIHDe/OzsogULFy0OCuZj4A8JXbK0atnyFSvDwgUEGYSEIyKjomNi4+ITRERBrhdLTEpOSU1LFweyAfHiPZE6qZu2AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIzLTA3LTA1VDIzOjAyOjA5KzAwOjAwyEqgYgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMy0wNy0wNVQyMzowMjowOSswMDowMLkXGN4AAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjMtMDctMDVUMjM6MDI6MTArMDA6MDC3MHxMAAAAAElFTkSuQmCC"></a>
   <a href="#"><img title="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img title="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
   <a href="#"><img title="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></a>
   <a href="#"><img title="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
+  <a href="#"><img title="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql"></a>
   <a href="#"><img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
   <a href="#"><img title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></a>
   <a href="#"><img title="Chakra UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></a>
   <a href="#"><img title="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
+  <a href="#"><img title="Socket.IO" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
 </span>
 
 
