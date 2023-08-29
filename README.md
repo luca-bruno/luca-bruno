@@ -48,6 +48,7 @@
   <a href="#"><img title="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
   <a href="#"><img title="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo-graphql"></a>
   <a href="#"><img title="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+  <a href="#"><img title="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
   <a href="#"><img title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></a>
   <a href="#"><img title="Chakra UI" src="https://img.shields.io/badge/chakra%20ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></a>
   <a href="#"><img title="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
