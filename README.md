@@ -58,6 +58,7 @@
 
 ### 🚀 Some of my projects
 <a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true" /></a>
+<a href="https://github.com/luca-bruno/portfolio-website/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=portfolio-website&show_owner=true&title_color=14AC8E&text_color=c9cacc&icon_color=14AC8E&bg_color=0D0D0D&hide_border=true" /></a>
 <br />
 
 <!--
