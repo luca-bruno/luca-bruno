@@ -58,8 +58,8 @@
 
 
 ### 🚀 Some of my projects
-<a href="https://github.com/luca-bruno/reelist/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=reelist&show_owner=true&title_color=F96815&text_color=F96815&icon_color=F96815&bg_color=FBE9D0&hide_border=true" /></a>
-<a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true" /></a>
+<a href="https://github.com/luca-bruno/reelist/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=reelist&show_owner=true&title_color=F96815&text_color=F96815&icon_color=F96815&bg_color=FBE9D0&hide_border=true&invalidate=true" /></a>
+<a href="https://github.com/luca-bruno/trivya/"><img align="center" width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=luca-bruno&repo=trivya&show_owner=true&title_color=F96815&text_color=c9cacc&icon_color=F96815&bg_color=0F4C81&hide_border=true&invalidate=true" /></a>
 <br />
 
 <!--
