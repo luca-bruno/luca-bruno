@@ -39,10 +39,11 @@
 #### 🌱 I’m currently learning...
 <span>
   <a href="#"><img title="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white"></a>
+  <a href="#"><img title="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"></a>
+  <a href="#"><img title="Zod" src="https://img.shields.io/badge/zod-%2320232a.svg?style=for-the-badge&logo=zod&logoColor=1F3D68"></a>
   <a href="#"><img title="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
   <a href="#"><img title="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img title="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-  <a href="#"><img title="Zod" src="https://img.shields.io/badge/zod-%2320232a.svg?style=for-the-badge&logo=zod&logoColor=1F3D68"></a>
   <a href="#"><img title="Socket.IO" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
   <a href="#"><img title="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
   <a href="#"><img title="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"></a>
