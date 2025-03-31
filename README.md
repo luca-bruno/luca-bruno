@@ -1,6 +1,6 @@
 ## Hello there! 👋
 <p>
-  I'm Luca, an ambitious front-end developer from Malta 🇲🇹 with 3+ years experience in the field. Ex-full stack dev @ Wyzer.
+  I'm Luca, an ambitious front-end developer from Malta 🇲🇹 with 3+ years experience in the field.
 </p>
 
 ### 📧 Get in touch
