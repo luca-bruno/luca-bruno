@@ -16,7 +16,9 @@
   <a href="#"><img title="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
   <a href="#"><img title="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img title="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=fff"></a>
+  <a href="#"><img title="SWR" src="https://img.shields.io/badge/swr-black.svg?style=for-the-badge&logo=swr&logoColor=white"></a>
   <a href="#"><img title="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"></a>
+  <a href="#"><img title="PostCSS" src="https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white"></a>
   <a href="#"><img title="Tailwind CSS" src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img title="Zod" src="https://img.shields.io/badge/zod-%2320232a.svg?style=for-the-badge&logo=zod&logoColor=1F3D68"></a>
   <a href="#"><img title="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
